@@ -49,6 +49,7 @@ namespace Dot_net_learning.Assignments
             Console.WriteLine(" \t");
             Console.WriteLine("--------\t");
             Console.WriteLine("Smallest value in array is: "+min);
+            Console.WriteLine();
 
 
 
