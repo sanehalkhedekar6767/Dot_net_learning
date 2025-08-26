@@ -70,6 +70,11 @@ namespace Dot_net_learning
 
             Console.WriteLine("Reverse String: "+revStr);
 
+            foreach (var item in revArray)
+            {
+                
+            }
+
 
         }
     }
